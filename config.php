@@ -4,4 +4,5 @@ $database = array(
     "host"     => "locahost",
     "username" => "user",
   "username" => "user",
+"username" => "user",
 ?>
